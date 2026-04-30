@@ -7,3 +7,4 @@ spacy
 spacy-legacy
 spacy-loggers
 pyLDAvis
+bertopic
